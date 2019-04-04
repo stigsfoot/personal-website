@@ -1,0 +1,85 @@
+name: Speaking Engagements
+source:
+  - icon: fa fa-microphone
+    description: AR & VR means business a perspective for the U.S. Department of Commerce International Trade Commission. 
+    location: Washington D.C., United States
+    image: 
+    url: 
+  
+  - icon: fa fa-tv
+    description: In this TEDx Tyson's talk Noble demonstrates how AR inspired a new way to document his family history through Google's ARCore technologies. 
+    location: Virginia, United States
+    image: 
+    url: https://www.mcleancenter.org/performing-arts/performance/speakers-education/icalrepeat.detail/2019/03/20/7276/-/tedxtysons-open-mic
+
+  - icon: fa fa-microphone
+    description: During the 63rd Session of the UN Commission on the Status of Women, I was invited to join a panel of thought leaders and international practitioners on the impact and opportunities the UN "ID for all" presents, and from a technical perspective, address the intersection of technical feasibility, standards, and privacy regulations such as the EU's GDPR. 
+    location: Virginia, United States
+    image: 
+    url: https://www.ndi.org/international-womens-day
+
+  - icon: fa fa-microphone
+    description: STEAM not STEM (where the A = Art) was my theme when I was approached to talk to students at Long Reach High School in Columbia MD. They learned how to build augmented reality development (Unity3D) entrepreneurship, and product design. 
+    location: Maryland, United States
+    image: 
+    url: https://docs.google.com/presentation/d/1D09VOfWlSj_--WgtC0vxAGT6Pg-_ZZHhqNYU5fimhaY/edit?usp=drivesdk
+
+  - icon: fa fa-microphone
+    description: Augmented reality allows you to create richer and more immersive experiences in your apps. At GDG Winnipeg's inaugural DevFest, Noble engages the audience of 45 attendees with a technical talk on ARCore. 
+    location: Winnipeg, Canada
+    image: 
+    url: 
+
+  - icon: fa fa-microphone
+    description: In this interactive session, Noble Ackerson, a seasoned Technical Product Lead and GDE, shares insights with examples through a fun "choose your own adventure" technical talk (Bandersnatch-style), on how to build marker-based AR with Augmented Images to create experiences to transform data from the world into practical utility for your users.
+    location: Minneapolis, United States
+    image: 
+    url:  
+
+  - icon: fa fa-podcast
+    description: Noble speaks to Home Services Pros about the basics of Augmented Reality and the opportunities the technology brings to their businesses.
+    location: Virginia, United States
+    image: 
+    url:   
+    
+  - icon: fa fa-microphone
+    description: In this talk, I’ll share opportunities to innovate, design and build around the growth in data, the growth in regulations like the EU's GDPR. 
+    location: Virginia, United States
+    image: 
+    url: https://youtu.be/snExWCKCZZk
+
+  - icon: fa fa-microphone
+    description: Presented how my startup turned an idea into a business to scientists and technologists at NASA JSC.
+    location: Texas, United States
+    image: 
+    url: https://youtu.be/_5p3BZ6R-Aw
+
+  - icon: fa fa-microphone
+    description: Noble Ackerson + Allen Firstenberg "Dueling technologists :D" have a friendly debate on stage at DevFest DC.
+    location: Virginia, United States
+    image: 
+    url: https://youtu.be/MTxyTZWyREU
+  
+  - icon: fa fa-microphone
+    description: Panel discussion about diversity and inclusion in tech. Featuring IDEAA at the  DC Code Kitchen, Alexandria VA
+    location: Virginia, United States
+    image: 
+    url: https://youtu.be/9Yi1pMgyb60
+
+  - icon: fa fa-podcast
+    description: An initial attempt to host my own Podcast. Lost Explorer conversations narrowly focused on catching up former Google Glass Explorers.
+    location: California, United States
+    image: 
+    url: https://soundcloud.com/stigsfoot/sets/lost-explorer-conversations
+
+  - icon: fa fa-podcast
+    description: Talking to the fine folks at Government Executive during the Excellence in Government Podcast podcast about the Healthcare.gov debacle. 11/19/2013
+    location: Ohio, United States
+    image: 
+    url: https://youtu.be/m8EHcWeU_XU
+
+  - icon: fa fa-microphone
+    description: Presenting Lynxfit at SXSW Interactive hosted by Capital Factory "Move Your Startup to Austin" 03/07/2014
+    location: Texas, United States
+    image: 
+    url: https://youtu.be/Mfs86vfqw_Q

@@ -1,0 +1,46 @@
+baseurl = "https://nobles.page/"
+languageCode = "en-US"
+title = "Noble Ackerson"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-8260595-3"
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.jpeg"
+  author = "Noble"
+  description = "There are over 2,000,000,000 websites on the internet, this one is mine."
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "stigsfoot"
+  #Email         = "noble@ackersononline.com"
+  Twitter       = "nobleackerson"
+  LinkedIn      = "noblea"
+  #Stackoverflow = "stigsfoot"
+  Medium        = "nobleackerson"
+  Youtube       = "nobleackerson"
+
+## Main Menu
+[[menu.main]]
+  name = "articles"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "speaking"
+  identifier = "speaking"
+  weight = 200
+  url = "/speaking/"
+[[menu.main]]
+  name = "courses"
+  identifier = "courses"
+  weight = 300
+  url = "/courses/"
