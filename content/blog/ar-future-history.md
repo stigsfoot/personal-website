@@ -37,7 +37,7 @@ Full disclosure, I am an active founding member of the [Open AR Cloud](https://w
 
 Blending this physical and digital with AR is a powerful use case for businesses like add context to places and things.
 
-See this demo I made for Carfax.
+See this demo I made for Carfax. The AR use-case is simple, sells used cars online only and #ARCore #AugmentedImages extends a 2D website into an immersive experience before you commit to buy.
 {{< youtube PTJEgShFmGA >}}
 _Used car sales AR use case_
 

@@ -40,25 +40,25 @@
   </url>
   
   <url>
-    <loc>https://nobles.page/tags/projects/</loc>
-    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://nobles.page/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nobles.page/tags/speaking/</loc>
-    <lastmod>2019-01-02T22:55:05-04:00</lastmod>
+    <loc>https://nobles.page/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nobles.page/categories/speaking/</loc>
+    <lastmod>2019-01-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nobles.page/tags/speaking/</loc>
     <lastmod>2019-01-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
