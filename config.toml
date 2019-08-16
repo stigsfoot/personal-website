@@ -21,10 +21,8 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "stigsfoot"
-  #Email         = "noble@ackersononline.com"
   Twitter       = "nobleackerson"
   LinkedIn      = "noblea"
-  #Stackoverflow = "stigsfoot"
   Medium        = "nobleackerson"
   Youtube       = "nobleackerson"
 
