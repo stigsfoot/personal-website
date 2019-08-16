@@ -1,43 +1,217 @@
-name: TBD
+name: Speaking Events
 source:
-  - icon: fa fa-podcast
-    description: 
-    location: 
-    image: 
-    url: 
-
-  - icon: fa fa-microphone
-    description: 
-    location: 
-    image: 
-    url: 
+  - icon: fa fa-globe
+    description: I shared insights on privacy by design opportunities that can help both an independent developer or an established corporation. I’ll present practical examples to minimize the data you collect and best practices on asking for data in software only when it provides value for the user.
+    title: Positive Sum — Developing Mobile Apps with Privacy as a Baseline Need
+    location: Washington
+    image: https://sfo2.digitaloceanspaces.com/advocu/gde/activity-photos/2018/08/22/f03f0f3761442dd1e932.png
+    url: http://androidsummit.org
+    date: 8/16/2018
+    region: U.S.
 
   - icon: fa fa-globe
-    description: 
+    description:
+    title:  
     location: 
     image: 
     url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
   
-  - icon: fa fa-video
-    description: 
+  - icon: fa fa-globe
+    description:
+    title:  
     location: 
     image: 
     url: 
+    date: 
+    region:
 
-  - icon: fa fa-video
-    description: 
+  - icon: fa fa-globe
+    description:
+    title:  
     location: 
     image: 
     url: 
+    date: 
+    region:
 
-  - icon: fa fa-video
-    description: 
+  - icon: fa fa-globe
+    description:
+    title:  
     location: 
     image: 
     url: 
+    date: 
+    region:
 
-  - icon: fa fa-video
-    description: 
+  - icon: fa fa-globe
+    description:
+    title:  
     location: 
     image: 
     url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
+
+  - icon: fa fa-globe
+    description:
+    title:  
+    location: 
+    image: 
+    url: 
+    date: 
+    region:
