@@ -1,7 +1,7 @@
 ---
 title: "AR, the Future of our History"
 date: 2019-06-07T12:18:34-04:00
-draft: true
+draft: false
 author: "Noble Ackerson"
 ---
 
@@ -9,7 +9,7 @@ author: "Noble Ackerson"
 
 Spatial computing and the “[AR cloud](https://venturebeat.com/2018/12/18/the-ar-cloud-will-infuse-meaning-into-every-object-in-the-real-world/)” is the future of humanity’s history. I’ll let you know why with a quick story.
 
-My lineage and family history is a tangled web of intrigue, fascination, and wonder. I’ve got roots[ going back to Ashanti Royalty](https://en.wikipedia.org/wiki/Osei_Bonsu), yet when I try to tap my family diaspora to share stories of our history, there are only fragments. This is unfortunate.
+My lineage and family history is a tangled web of intrigue, fascination, and wonder. I’ve got roots [going back to Ashanti Royalty](https://en.wikipedia.org/wiki/Osei_Bonsu), yet when I try to tap my family diaspora to share stories of our history, there are only fragments. This is unfortunate.
 
 My four year old started asking questions about her Identity several months ago so I explored finding an immersive medium to help her learn about her history. The challenge of getting the stories to piece together my history means my odds at playing the African version of the Game of Thrones is highly unlikely in my lifetime. I had the pleasure of expanding upon this at a TEDx open-mic night in McLean Virginia in 2019
 

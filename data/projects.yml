@@ -1,9 +1,21 @@
 name: Speaking Engagements
 source:
   - icon: fa fa-microphone
-    description: AR & VR means business a perspective for the U.S. Department of Commerce International Trade Commission. 
+    description: Mentoring at Canada's largest hackathon hosted at the University of Waterloo. 
+    location: Waterloo, ON Canada
+    image: "https://lh3.googleusercontent.com/-isGXqRAbXd8/AAAAAAAAAAI/AAAAAAAE8f8/gE01lOBmuS4/s172-c/photo.jpg"
+    url: https://hackthenorth2019.devpost.com/
+
+  - icon: fa fa-file
+    description: Mentoring a select number of students working on mix reality, AI, and mobile based AR/VR applications. My sessions were a biweekly mentoriship, codelabs, office hours, and technical talks on development, design, and product strategy mentoriship Howard University is a predominantly minority higher education and graduate studies University. 
     location: Washington D.C., United States
     image: 
+    url: https://bschool.howard.edu/
+
+  - icon: fa fa-microphone
+    description: AR & VR means business a perspective for the U.S. Department of Commerce International Trade Commission. 
+    location: Washington D.C., United States
+    image: "https://lh3.googleusercontent.com/-isGXqRAbXd8/AAAAAAAAAAI/AAAAAAAE8f8/gE01lOBmuS4/s172-c/photo.jpg"
     url: 
   
   - icon: fa fa-tv
