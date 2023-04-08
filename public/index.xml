@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noble Ackerson</title>
@@ -6,11 +6,7 @@
     <description>Recent content on Noble Ackerson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Mar 2020 23:46:41 -0400</lastBuildDate>
-    
-	<atom:link href="https://nobles.page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 08 Mar 2020 23:46:41 -0400</lastBuildDate><atom:link href="https://nobles.page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Inputs Outputs Outcomes of Product Strategy</title>
       <link>https://nobles.page/blog/the-inputs-outputs-outcomes-of-product-strategy/</link>
@@ -37,7 +33,7 @@ My lineage and family history is a tangled web of intrigue, fascination, and won
       <pubDate>Mon, 28 Jan 2019 09:16:42 -0500</pubDate>
       
       <guid>https://nobles.page/blog/augmented-reality-6th-sense/</guid>
-      <description>This updated article now lives on Medium &amp;ldquo;Does AR give us a sixth sense?&amp;ldquo; - https://link.medium.com/upEkfPnRST
+      <description>This updated article now lives on Medium &amp;ldquo;Does AR give us a sixth sense?&amp;rdquo; - https://link.medium.com/upEkfPnRST
 Does AR give us a 6th sense? Augmented Reality (AR) is the mixture of the real world and virtual worlds so that one understands the other. The medium affords a deeper connection with the real world giving context without breaking its laws. What makes AR a powerful medium is that it even supersedes our visual senses.</description>
     </item>
     

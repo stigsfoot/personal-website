@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Speaking on Noble Ackerson</title>
+    <title>speaking on Noble Ackerson</title>
     <link>https://nobles.page/categories/speaking/</link>
-    <description>Recent content in Speaking on Noble Ackerson</description>
+    <description>Recent content in speaking on Noble Ackerson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Jan 2019 22:55:05 -0400</lastBuildDate>
-    
-	<atom:link href="https://nobles.page/categories/speaking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 02 Jan 2019 22:55:05 -0400</lastBuildDate><atom:link href="https://nobles.page/categories/speaking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speaking</title>
       <link>https://nobles.page/speaking/</link>
